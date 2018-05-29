@@ -15,6 +15,8 @@
 # 语言
 > Python 语法
 
+* [模块](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/modules/modules.ipynb)
+
 # 实战
 > Python 开发经验
 
