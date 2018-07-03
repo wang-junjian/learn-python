@@ -24,9 +24,10 @@
     * [获得当前时间戳](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/date_time/get_current_timestamp.ipynb)
 
 * 文件和目录
-    * [目录](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/path/path.ipynb)
-    * [获得文件或目录名](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/path/get_file_or_dir_name.ipynb)
-    * [文件系统事件监测](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/path/watchdog_filesystem_events_monitoring.ipynb)
+    * [目录](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/file_path/path.ipynb)
+    * [获得文件或目录名](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/file_path/get_file_or_dir_name.ipynb)
+    * [文件系统事件监测](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/file_path/watchdog_filesystem_events_monitoring.ipynb)
+    * [读取多行文本文件](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/file_path/read_text.ipynb)
 
 # GUI
 > Python 开发GUI的库
