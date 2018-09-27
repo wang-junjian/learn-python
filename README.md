@@ -27,12 +27,12 @@
 # IDE
 
 * Jupyter Notebook
-* [Jupyter Notebook 里显示图片](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/jupyter_notebook/jupyter_notebook_show_image.ipynb)
-* 在Jupyter Notebook里显示一张图片
-* 解决颜色显示不正确的问题
-* 移除X轴和Y轴的tick
-* 在Jupyter Notebook里显示多张图片
-* [Jupyter Notebook 魔术关键字](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/jupyter_notebook/jupyter_notebook_magic_keywords.ipynb)
+    * [Jupyter Notebook 里显示图片](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/jupyter_notebook/jupyter_notebook_show_image.ipynb)
+        * 在Jupyter Notebook里显示一张图片
+        * 解决颜色显示不正确的问题
+        * 移除X轴和Y轴的tick
+        * 在Jupyter Notebook里显示多张图片
+    * [Jupyter Notebook 魔术关键字](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/jupyter_notebook/jupyter_notebook_magic_keywords.ipynb)
 
 # GUI
 
