@@ -24,6 +24,9 @@
 * 网络
     * [requests](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/network/requests.ipynb)
 
+* 包
+    * [face_recognition](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/packages/face_recognition.ipynb)
+
 # IDE
 
 * Jupyter Notebook
