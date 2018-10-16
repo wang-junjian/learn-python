@@ -26,6 +26,8 @@
 
 * 包
     * [face_recognition](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/packages/face_recognition.ipynb)
+    * [标记睁眼和闭眼](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/apply/open_eye_close_eye.ipynb)
+    * [标记张嘴和闭嘴](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/apply/open_mouth_close_mouth.ipynb)
 
 # IDE
 
