@@ -1,7 +1,9 @@
 # 学习 Python
 
+# 语言
+* [结构化类型](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/language/structured_type.ipynb)
 
-# Python 实战
+# 实战
 
 * 类型
     * [list](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/type/list.ipynb)
