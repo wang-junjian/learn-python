@@ -20,6 +20,9 @@
     * [读取多行文本文件](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/file_path/read_text.ipynb)
     * [递归遍历文件](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/file_path/recursively_traversing_files.ipynb)
 
+* 系统
+    * [在程序中获得Python的版本](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/version.ipynb)
+
 * 编码
     * [base64](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/base64.ipynb)
 
